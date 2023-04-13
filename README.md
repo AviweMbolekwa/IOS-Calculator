@@ -1,5 +1,5 @@
 # IOS-Calculator
-IOS-Calculator is the calculator application that you will on your iPhone cellphones.
+IOS-Calculator is a functional calculator application that you will find in your iPhone cellphones.
 
 # Tech Stack
 html, css, javascript.
